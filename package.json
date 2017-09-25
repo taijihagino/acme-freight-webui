@@ -2,7 +2,7 @@
   "name": "logistics-wizard",
   "version": "0.1.0",
   "description": "Front end UI for Logistics Wizard demo",
-  "main": "index.html",
+  "main": "main.js",
   "engines": {
     "node": ">=4.2.0",
     "npm": "^3.0.0"
